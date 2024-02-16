@@ -9,9 +9,9 @@ int isPalindrome(int n) {
     }
 
     if (originalNumber == reversedNumber)
-        return 1; // Palindrome
+        return 1; 
     else
-        return 0; // Not Palindrome
+        return 0; 
 }
 
 int main() {
